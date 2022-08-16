@@ -1,5 +1,9 @@
 # Cold Shoe Adapter for Hasselblad 500 Series
 
+Originally I shared this on a <a href="https://www.reddit.com/r/hasselblad/comments/ege2ee/cold_shoe_adapter_for_hasselblad_500_series/">reddit post</a> and finally got around to posting it on git. Magially the original link and git repo were deleted. I am uploading it again.
+
+--
+
 The collector in me really wanted the genuine Made in Sweden adjustable flash shoe adapter for the Hasselblad V System.
 
 I recently picked up a 503cw and wanted to add my flash trigger to the mix, which is when I learned about the nifty side rail Hasselblad designed into their 500 series cameras. This is also when I went to eBay and decided for $80 and time (shipping to the US from Japan) I could design and print my own cold shoe adapter.
